@@ -40,7 +40,7 @@ This list was created during my project [Project Duck](https://project-duck.com/
 ### Groundstation and Simulation
 
 * [Mission planner](https://ardupilot.org/planner/) - software to control ardupilot, including tracking, planning and configuration remotely 
-* [QGroundControl][http://qgroundcontrol.com/] - Intuitive and Powerful Ground Control Station for the MAVLink protocol.
+* [QGroundControl](http://qgroundcontrol.com/) - Intuitive and Powerful Ground Control Station for the MAVLink protocol.
 * [Open Rocket](https://openrocket.info/) - Plan, simulate and fly rockets
 
 ### Vehicle 
