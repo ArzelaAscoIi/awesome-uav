@@ -29,6 +29,9 @@ This list was created during my project [Project Duck](https://project-duck.com/
 * [Navio2](https://navio2.emlid.com/) - Autopilot HAT for Raspberry Pi running ArduPilot and ROS.
 * [Mateksys](http://www.mateksys.com/?page_id=7637) - Ardupilot compatible flight controllers
 
+### Sensors
+* [Laser rangefinder altimeter guide](https://github.com/ErdiTech/drone-altimeter-laser-rangefinder-guide) - choosing, mounting and configuring a single-point laser rangefinder (905 / 1535 nm, UART) as an altimeter for ArduPilot and PX4.
+
 ## Software 
 
 ### Protocols and tools 
